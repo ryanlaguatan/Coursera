@@ -1,2 +1,2 @@
 # Coursera
-A place to submit my Coursera lab assignemnts
+A place to submit my Coursera lab assignments
